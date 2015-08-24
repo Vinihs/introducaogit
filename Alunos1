@@ -1,0 +1,14 @@
+import java.util.*
+
+public class buscaSequencial{
+public static void main (String []args){
+  
+  int vetor[], qtd, compara;
+  
+  Scanner ent = new Scanner (System.in);
+  
+  System.out.println("Insisra o tamanho do vetor");
+  qtd = ent.nextInt();
+  
+  vetor[] = 
+  
