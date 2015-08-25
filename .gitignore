@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Alternativa 
+BuscaApp.java
+
 # =========================
 # Operating System Files
 # =========================
