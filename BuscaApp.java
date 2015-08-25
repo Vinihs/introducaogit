@@ -8,9 +8,9 @@ package lp1.teoria_03.busca;
 import java.util.Scanner;
 
 /**
- *
+ * Testando se o controlador de versões funciona corretamente!
  * @author 1147148
- */
+ */ 
 public class BuscaApp {
     public static int indexOf(int[] V, int E) {
         for (int i=0; i<V.length; i++) {
