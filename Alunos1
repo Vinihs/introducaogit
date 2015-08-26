@@ -4,6 +4,7 @@ public class buscaSequencial{
 public static void main (String []args){
   //comentario
 	//teste merge
+		//teste diff
 
   int vetor[], qtd, compara;
   
