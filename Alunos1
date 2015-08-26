@@ -2,7 +2,7 @@ import java.util.*
 
 public class buscaSequencial{
 public static void main (String []args){
-  //comentario
+  
   int vetor[], qtd, compara;
   
   Scanner ent = new Scanner (System.in);
